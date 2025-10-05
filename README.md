@@ -1,6 +1,4 @@
-# 100-Days-of-Code-DSA-JS
-
-## 🎯 Desafio: Masterizando Estruturas de Dados e Algoritmos com JavaScript
+# 🎯 Desafio: Masterizando Estruturas de Dados e Algoritmos com JavaScript
 
 Este repositório é o registro do meu compromisso com o desafio **#100DaysOfCode**, focado exclusivamente no aprofundamento e domínio de **Lógica de Programação, Estruturas de Dados (DSA)** e **Algoritmos** utilizando **JavaScript (Node.js)**.
 
