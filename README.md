@@ -16,10 +16,11 @@ O desafio está organizado em três fases de dificuldade progressiva. Cada dia r
 | **Phase 2: Intermediate** | **Dias 41 a 75** | Estruturas Lineares (Pilhas, Filas, Listas Encadeadas), Busca Binária, Algoritmos de Ordenação Padrão. |
 | **Phase 3: Advanced** | **Dias 76 a 100** | Estruturas Não Lineares (Árvores, Grafos, Hash Tables), Algoritmos Otimizados (Merge/Quick Sort), Programação Dinâmica. |
 
+
 ### Convenções de Nomenclatura
 
 * **Arquivos de Solução:** O código do desafio de cada dia está contido no arquivo **`solution.js`**.
-* **Documentação Diária (Opcional):** Um arquivo **`README.md`** dentro da pasta do dia pode ser adicionado para detalhar a análise de complexidade (Big O) e os conceitos revisados.
+* **README.md:** Cada pasta de dia possui um arquivo **`README.md`**, contendo a ordem dos exercícios/questões daquele dia, e de forma opcional observações sobre os conceitos revisados.
 
 ---
 
@@ -42,11 +43,26 @@ Todas as soluções são escritas em JavaScript puro e podem ser executadas via 
 
 ---
 
+## 🚫 Como desativar o autocomplete do Copilot no VS Code para JavaScript
+
+Adicione o seguinte trecho ao seu `settings.json` para desabilitar as sugestões inline do Copilot apenas para arquivos JavaScript:
+
+```jsonc
+// Desabilitar sugestões inline para JavaScript
+"[javascript]": {
+    "editor.inlineSuggest.enabled": false
+}
+```
+
+Isso impede que o Copilot mostre sugestões automáticas enquanto você digita código JavaScript no VS Code.
+
+---
+
 ## 🏆 Progresso e Compromisso
 
 Manter a consistência é o foco. A cada solução concluída, um novo commit será realizado.
 
 ### 📊 Status Atual
 
-| Progresso | ⏳ | 0 / 100 Dias Concluídos |
+| Progresso | ⏳ | 1 / 100 Dias Concluídos |
 | :--- | :--- | :--- |
