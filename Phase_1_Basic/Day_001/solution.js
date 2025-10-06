@@ -4,9 +4,9 @@ function classificarNumero(numero) {
     } else if (numero < 0) {
         return "Negativo"
     } else if (numero % 2 === 0) {
-        return "Positivo e par"
+        return "Positivo e Par"
     } else if (numero % 2 === 1 ) {
-        return "Positivo e impar"
+        return "Positivo e Impar"
     } else {
         return "Insira um valor válido"
     }
