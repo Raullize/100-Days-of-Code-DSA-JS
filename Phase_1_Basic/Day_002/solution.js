@@ -1,9 +1,12 @@
 function inverterString(texto) {
-    for () {
-        
+    let palavraInvertida = ""
+    
+    for (let i = texto.length - 1; i >= 0; i--) {
+            palavraInvertida += texto[i] 
     }
+    return palavraInvertida
 }
 
-palavra = "javascript"
+let palavra = "javascript"
 
 console.log(inverterString(palavra))
