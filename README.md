@@ -64,5 +64,5 @@ Manter a consistência é o foco. A cada solução concluída, um novo commit se
 
 ### 📊 Status Atual
 
-| Progresso | ⏳ | 2 / 100 Dias Concluídos |
+| Progresso | ⏳ | 3 / 100 Dias Concluídos |
 | :--- | :--- | :--- |
