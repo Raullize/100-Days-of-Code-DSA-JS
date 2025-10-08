@@ -24,4 +24,11 @@ Implementar uma função em JavaScript chamada `filtrarNomes(arrayDeNomes)` que 
 
 ---
 
+## 📺 Vídeo de Apoio
+
+Confira este vídeo para entender o funcionamento dos loops `for...in` e `for...of` em JavaScript:  
+[https://www.youtube.com/watch?v=c5a4sNshBA4](https://www.youtube.com/watch?v=c5a4sNshBA4)
+
+---
+
 ⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
