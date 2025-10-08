@@ -1,4 +1,4 @@
-# Day 004: Métodos Essenciais de Array (Reduce e Combinados)
+# Day 005: Métodos Essenciais de Array (Reduce e Combinados)
 
 ## 🎯 Desafios
 
