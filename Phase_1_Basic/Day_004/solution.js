@@ -1,5 +1,9 @@
 function somarValores(objeto) {
-
+    let somaTotal = 0
+    for(let produto in objeto) {
+        somaTotal += objeto[produto]
+    }
+    return somaTotal
 }
 
 obj = {
