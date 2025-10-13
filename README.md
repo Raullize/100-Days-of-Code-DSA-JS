@@ -12,9 +12,9 @@ O desafio está organizado em três fases de dificuldade progressiva. Cada dia r
 
 | Fase | Dias | Foco Principal |
 | :--- | :--- | :--- |
-| **Phase 1: Basic** | **Dias 1 a 40** | Lógica de Programação, Arrays (Vetores), Strings, Funções, Complexidade $O(n)$ e $O(n^2)$. |
-| **Phase 2: Intermediate** | **Dias 41 a 75** | Estruturas Lineares (Pilhas, Filas, Listas Encadeadas), Busca Binária, Algoritmos de Ordenação Padrão. |
-| **Phase 3: Advanced** | **Dias 76 a 100** | Estruturas Não Lineares (Árvores, Grafos, Hash Tables), Algoritmos Otimizados (Merge/Quick Sort), Programação Dinâmica. |
+| **Phase 1: Basic (Fundação)** | **Dias 1 a 40** | **Lógica e Métodos Nativos de JS.** Arrays (Vetores), Strings, Objetos, Métodos Funcionais (`map/filter/reduce`), **POO Básico (Classes)** e Iteração (`for...in`, `for...of`). |
+| **Phase 2: Intermediate (Estruturas Lineares)** | **Dias 41 a 75** | **Implementação de Estruturas com POO.** Pilhas, Filas, Listas Encadeadas, Algoritmos de Busca ($O(\log n)$) e Ordenação Simples. |
+| **Phase 3: Advanced (Otimização e Não Lineares)** | **Dias 76 a 100** | Estruturas Não Lineares (Árvores, Grafos, Hash Tables), Algoritmos Otimizados ($O(n \log n)$) e Programação Dinâmica (Memoization). |
 
 
 ### Convenções de Nomenclatura
@@ -64,5 +64,5 @@ Manter a consistência é o foco. A cada solução concluída, um novo commit se
 
 ### 📊 Status Atual
 
-| Progresso | ⏳ | 4 / 100 Dias Concluídos |
+| Progresso | ⏳ | 5 / 100 Dias Concluídos |
 | :--- | :--- | :--- |
