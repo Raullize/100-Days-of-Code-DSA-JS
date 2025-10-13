@@ -10,7 +10,7 @@ Implementar uma função em JavaScript chamada `contarFrequencia(arrayDeNomes)` 
 
 | Input (arrayDeNomes) | Output (Objeto) |
 | :--- | :--- |
-| `['João', 'Maria', 'João']` | `{ João: 2, Maria: 1 }` |
+| `['João', 'Maria', 'João', 'Ana', 'Maria', 'João']` | `{ 'João': 3, Maria: 2, Ana: 1 }` |
 
 ### 2. Desafio: Filtragem e Desconto em Objetos (`solution2.js`)
 
