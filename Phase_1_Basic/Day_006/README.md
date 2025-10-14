@@ -23,7 +23,7 @@ Implementar uma **Classe** em JavaScript chamada `Contador`. Ela deve incluir um
 **Exemplo de Uso:**
 
 ```javascript
-let c = new Contador();
+const c = new Contador();
 c.incrementar();
 c.incrementar();
 c.decrementar();
