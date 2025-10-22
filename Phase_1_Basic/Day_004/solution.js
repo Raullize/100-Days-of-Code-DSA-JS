@@ -6,7 +6,7 @@ function somarValores(objeto) {
     return somaTotal
 }
 
-obj = {
+const obj = {
     cafe: 5.0,
     pao: 3.0,
     leite: 7.5
