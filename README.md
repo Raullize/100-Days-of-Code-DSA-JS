@@ -24,6 +24,12 @@ O desafio está organizado em três fases de dificuldade progressiva. Cada dia r
 
 ---
 
+## 🧠 Seção Extra: Módulos de Revisão (`Revision_Modules`)
+
+Este diretório serve como um complemento ao currículo principal de DSA. A pasta `Revision_Modules` contém exercícios e módulos focados em **revisitar conceitos básicos de JavaScript**, sintaxes específicas (como tipos de loops e condicionais) ou aprofundar tópicos já vistos, atuando como uma fonte de **reforço e consolidação** de conhecimento sob demanda.
+
+---
+
 ## 💻 Como Rodar as Soluções (Node.js)
 
 Todas as soluções são escritas em JavaScript puro e podem ser executadas via Node.js no seu terminal.
