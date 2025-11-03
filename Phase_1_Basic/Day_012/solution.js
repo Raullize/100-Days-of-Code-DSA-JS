@@ -1,10 +1,12 @@
 function checarAnagramaPalindromo(texto) {
-    let freqObj = texto
+    const textoLimpo = texto
         .toLowerCase()
         .replace(/[^a-z0-9]/g, '')
+    
+    const freqObj = textoLimpo
         .split('')
         .reduce((acc, charAtual) => {
-            acc[charAtual] = acc[charAtual] ? acc[charAtual] += 1 : 1
+            acc[charAtual] = acc[charAtual] ? acc[charAtual] + 1 : 1
             return acc
         }, {})
 
@@ -18,8 +20,10 @@ function checarAnagramaPalindromo(texto) {
     return oddCounter <= 1
 }
 
-let palavra1 = "arara"
-let palavra2 = "aabbccd"
+let texto1 = "aabbc"
+let texto2 = "Ame o poema!"
+let texto3 = "aabbcde"
 
-console.log(checarAnagramaPalindromo(palavra1))
-console.log(checarAnagramaPalindromo(palavra2))
+console.log(checarAnagramaPalindromo(texto1))
+console.log(checarAnagramaPalindromo(texto2))
+console.log(checarAnagramaPalindromo(texto3))
