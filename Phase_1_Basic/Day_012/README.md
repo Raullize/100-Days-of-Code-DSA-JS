@@ -10,12 +10,11 @@ Implementar uma função em JavaScript chamada `checarAnagramaPalindromo(texto)`
 
 **Exemplos:**
 
-| Input (texto) | Output (boolean) | Contagem de Ímpares |
+| Input (texto) | Output (boolean) | Justificativa |
 | :--- | :--- | :--- |
-| `"arara"` | `true` | 0 ímpares (a=3, r=2) |
-| `"ovo"` | `true` | 1 ímpar (o=2, v=1) |
-| `"aabbc"` | `true` | 1 ímpar (c=1) |
-| `"aabbccd"` | `false` | 2 ímpares (c=1, d=1) |
+| `"aabbc"` | `true` | 1 ímpar (o 'c'). $1 \le 1$. |
+| `"Ame o poema!"` | `true` | 1 ímpar (o 'p'). $1 \le 1$. |
+| `"aabbcde"` | `false` | 3 ímpares (c=1, d=1, e=1). $3 \not\le 1$. |
 
 ---
 
@@ -26,6 +25,7 @@ Implementar uma função em JavaScript chamada `checarAnagramaPalindromo(texto)`
 3.  Percorra as contagens do Hash Map e use um contador (`impares`) para rastrear quantos caracteres têm frequência ímpar.
 
 ---
+
 
 ## 📊 Análise de Complexidade (Big O)
 
