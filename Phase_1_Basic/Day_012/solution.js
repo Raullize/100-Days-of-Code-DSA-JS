@@ -11,6 +11,7 @@ function checarAnagramaPalindromo(texto) {
         }, {})
 
     let oddCounter = 0
+    
     for (let letra in freqObj) {
         if (freqObj[letra] % 2 === 1) {
             oddCounter += 1
