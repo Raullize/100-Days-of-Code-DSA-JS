@@ -16,7 +16,6 @@ function checarAnagramaPalindromo(texto) {
             oddCounter += 1
         }
     }
-
     return oddCounter <= 1
 }
 
