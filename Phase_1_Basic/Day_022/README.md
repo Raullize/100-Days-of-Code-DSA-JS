@@ -33,7 +33,6 @@ Dada uma string `s`, inverta a ordem das **palavras**. Uma palavra é definida c
 ## 💡 Dica
 
 * O Regex `/\s+/` no `.split()` é muito útil aqui, pois ele entende "um ou mais espaços" como um único separador.
-* Se quiser um desafio maior, tente fazer sem usar os métodos prontos `.split().reverse()`, usando apenas um loop!
 
 ---
 
