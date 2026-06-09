@@ -24,12 +24,17 @@ Encontrar a primeira ocorrência de uma string (agulha) dentro de outra (palheir
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * Use um loop `for` que vai de `0` até `palheiro.length - agulha.length`. (Não precisa ir até o fim se a agulha não couber mais!).
 * Use `.substring(i, i + agulha.length)` para pegar o pedaço da janela.
 * **Complexidade:** $O(n \times m)$ no pior caso, onde $n$ é o palheiro e $m$ a agulha.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

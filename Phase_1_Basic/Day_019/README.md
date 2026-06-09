@@ -25,12 +25,17 @@ Como o array está ordenado, as duplicatas estão sempre lado a lado. Usamos doi
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * Se `nums[j]` for diferente de `nums[i]`, significa que achamos um novo número único.
 * Aumente o `i` e mova o valor de `j` para a posição de `i`.
 * No final, retorne `i + 1`.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

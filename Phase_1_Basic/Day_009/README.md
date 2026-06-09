@@ -13,9 +13,14 @@ Implementar uma função em JavaScript chamada `buscaBinaria(arrayOrdenado, alvo
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 Utilize três ponteiros (`inicio`, `fim`, `meio`) e um loop `while` (`inicio <= fim`) para controlar o espaço de busca, dividindo-o pela metade a cada iteração.
+
+</details>
 
 ---
 
@@ -33,4 +38,4 @@ A **Busca Binária** é um algoritmo de busca eficiente para localizar um valor 
 
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

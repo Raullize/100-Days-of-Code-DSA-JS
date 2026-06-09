@@ -18,11 +18,16 @@ Implementar uma função em JavaScript chamada `checarAnagramaPalindromo(texto)`
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 1.  Use `.toLowerCase()` e `.replace(/[^a-z0-9]/g, '')` para limpar a string.
 2.  Use o padrão Hash Map (como no Dia 11) para contar as frequências.
 3.  Percorra as contagens do Hash Map e use um contador (`impares`) para rastrear quantos caracteres têm frequência ímpar.
+
+</details>
 
 ---
 
@@ -33,4 +38,4 @@ A complexidade de tempo deve ser $O(n)$, pois o algoritmo percorre a string uma 
 
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

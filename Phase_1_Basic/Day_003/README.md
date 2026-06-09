@@ -11,10 +11,15 @@ Implementar uma função em JavaScript chamada `dobrarPares(arrayDeNumeros)` que
 | `[1, 2, 3, 4, 5, 6]` | `[4, 8, 12]` |
 | `[10, 15, 20]` | `[20, 40]` |
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 Considere utilizar os métodos de array `filter` e `map` para realizar este exercício de forma simples e eficiente.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

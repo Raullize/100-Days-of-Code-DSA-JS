@@ -25,13 +25,18 @@ Transpor uma matriz significa transformar as suas **linhas em colunas** e as sua
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 1. Descubra o número de linhas e colunas da matriz original.
 2. Crie um novo array externo (as novas linhas da transposta terão o tamanho das colunas da original).
 3. Use loops aninhados: o índice da linha da original vira o índice da coluna na transposta: 
    * `transposta[j][i] = original[i][j]`
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

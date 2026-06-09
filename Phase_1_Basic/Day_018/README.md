@@ -27,13 +27,18 @@ A estratégia consiste em percorrer o array uma única vez, tomando uma decisão
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * Inicialize `somaAtual` e `somaMaxima` com o primeiro valor do array: `nums[0]`.
 * Utilize um loop `for` começando do índice `1`.
 * Use `Math.max()` para simplificar as comparações.
 * **Complexidade:** Tempo $O(n)$ | Espaço $O(1)$.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

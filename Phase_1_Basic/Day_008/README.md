@@ -13,10 +13,15 @@ Implementar uma função em JavaScript chamada `buscaLinear(array, alvo)` que re
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 A chave é usar um loop `for` e a instrução `return` dentro do loop para sair da função imediatamente assim que o elemento for encontrado (otimização).
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

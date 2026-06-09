@@ -42,4 +42,4 @@ A função deve retornar um array contendo apenas os elementos que seriam removi
 
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

@@ -32,4 +32,4 @@ Implementar uma função em JavaScript chamada `somarPares(arrayDeNumeros)` que 
 
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

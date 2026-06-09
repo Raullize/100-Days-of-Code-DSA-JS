@@ -27,12 +27,17 @@ Para rotacionar o array sem usar memória extra, seguimos três passos lógicos:
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * **Otimização do K:** Se `k` for maior que o tamanho do array, use `k = k % nums.length`. Isso evita rotações desnecessárias.
 * **Função Auxiliar:** Crie uma função `reverse(arr, inicio, fim)` que troca os elementos de lugar usando um loop `while` e uma variável temporária.
 * **Complexidade:** Tempo $O(n)$ | Espaço $O(1)$.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

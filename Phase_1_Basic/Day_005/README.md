@@ -24,4 +24,4 @@ Implementar uma função em JavaScript chamada `processarProdutos(listaDeProduto
 
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

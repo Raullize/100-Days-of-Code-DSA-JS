@@ -31,4 +31,4 @@ Confira este vídeo para entender o funcionamento dos loops `for...in` e `for...
 
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

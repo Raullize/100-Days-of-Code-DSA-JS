@@ -30,10 +30,15 @@ Dada uma string `s`, inverta a ordem das **palavras**. Uma palavra é definida c
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * O Regex `/\s+/` no `.split()` é muito útil aqui, pois ele entende "um ou mais espaços" como um único separador.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

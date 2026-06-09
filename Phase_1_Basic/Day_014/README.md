@@ -15,10 +15,15 @@ Implementar uma função em JavaScript chamada `somarMatriz(matriz)` que recebe 
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 O uso de loops aninhados resulta em complexidade de tempo **O(n²)**, onde $n$ é o número de elementos totais, ou $O(r \times c)$, onde $r$ é o número de linhas e $c$ é o número de colunas.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

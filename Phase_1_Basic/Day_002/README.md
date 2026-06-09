@@ -13,4 +13,4 @@ Implementar uma função em JavaScript chamada `inverterString(texto)` que receb
 
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

@@ -20,7 +20,10 @@ Implementar uma função em JavaScript chamada `somarDiagonais(matrizQuadrada)` 
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 Utilize um único `for` loop para percorrer a matriz. Em cada iteração `i`, acesse as diagonais usando as seguintes relações de índices:
 
@@ -31,6 +34,8 @@ Utilize um único `for` loop para percorrer a matriz. Em cada iteração `i`, ac
 
 Como o loop passará pelo elemento central duas vezes em matrizes de tamanho ímpar, lembre-se de subtrair esse valor uma vez ao final para normalizar o resultado.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

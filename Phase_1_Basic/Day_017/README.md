@@ -31,12 +31,17 @@ Em vez de percorrer todos os elementos com loops aninhados ($O(n \times m)$), ex
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * Inicialize `linha = 0` e `coluna = matriz[0].length - 1`.
 * Use um loop `while` que permaneça dentro dos limites: `linha < matriz.length && coluna >= 0`.
 * Essa abordagem descarta uma linha ou coluna inteira a cada iteração, tornando a busca extremamente rápida.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

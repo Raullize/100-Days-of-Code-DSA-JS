@@ -21,12 +21,17 @@ Dada uma lista de strings, encontre o maior prefixo que seja comum a **todas** e
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * Use o método `.indexOf(prefixo)` — se ele retornar `0`, significa que a string começa com aquele prefixo.
 * Enquanto `strs[i].indexOf(prefixo) !== 0`, use `.substring(0, prefixo.length - 1)` para encurtar o prefixo.
 * Se em algum momento o prefixo se tornar vazio, você já pode retornar `""`.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**

@@ -28,12 +28,17 @@ Para manter a eficiência $O(n)$, utilize a técnica de **Dois Ponteiros**:
 
 ---
 
-## 💡 Dica
+## 💡 Dicas e Spoilers
+
+<details>
+  <summary><strong>Clique aqui para revelar as dicas (Spoiler Alert!)</strong></summary>
 
 * Use Regex `.replace(/[^a-z0-9]/gi, '')` para limpar a string.
 * Converta para minúsculo com `.toLowerCase()`.
 * Você pode converter a string em array para facilitar, ou acessar os índices direto na string: `s[i]`.
 
+</details>
+
 ---
 
-⬅️ **[Voltar para README.md principal da Jornada](../../README.md)**
+⬅ **[Voltar para README.md principal](../../README.md)**
