@@ -22,6 +22,11 @@ O desafio está organizado em três fases de dificuldade progressiva. Cada dia r
 * **Arquivos de Solução:** O código do desafio de cada dia está contido no arquivo **`solution.js`**.
 * **README.md:** Cada pasta de dia possui um arquivo **`README.md`**, contendo a ordem dos exercícios/questões daquele dia, e de forma opcional observações sobre os conceitos revisados.
 
+### 📝 Template para Exercícios
+
+Para manter o padrão de documentação de cada dia, foi criada uma pasta `Template/` contendo um [README.md base](./Template/README.md). 
+Este template já inclui uma estrutura com a tag `<details>` do HTML, que permite criar **dicas retráteis**. Dessa forma, as dicas e spoilers sobre como resolver o exercício ficam escondidos e só aparecem caso você clique para abri-los. Use-o copiando o arquivo para a pasta do novo dia!
+
 ---
 
 ## 🧠 Seção Extra: Módulos de Revisão (`Revision_Modules`)
